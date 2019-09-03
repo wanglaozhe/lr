@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\var\promo-test\promo\promo-api\Script\promo_api_1
+-ID:\Program Files\loadrunner\include
+-ee:\var\promo-test\promo\promo-api\script\promo_api_1\\logfile.log
+e:\var\promo-test\promo\promo-api\script\promo_api_1\\combined_promo_api_1.c
+e:\var\promo-test\promo\promo-api\script\promo_api_1\\pre_cci.c

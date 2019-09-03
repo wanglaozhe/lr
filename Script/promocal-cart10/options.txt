@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\var\promo-test\promo\promo-cal\Script\promocal-cart10
+-ID:\Program Files\loadrunner\include
+-ee:\var\promo-test\promo\promo-cal\script\promocal-cart10\\logfile.log
+e:\var\promo-test\promo\promo-cal\script\promocal-cart10\\combined_promocal-cart10.c
+e:\var\promo-test\promo\promo-cal\script\promocal-cart10\\pre_cci.c

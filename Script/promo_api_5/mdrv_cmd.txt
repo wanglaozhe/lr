@@ -1,0 +1,1 @@
+-usr "E:\var\promo-test\promo\promo-api\Script\promo_api_5\promo_api_5.usr" -compile_only -out "E:\var\promo-test\promo\promo-api\Script\promo_api_5\" -drv_log_file "E:\var\promo-test\promo\promo-api\Script\promo_api_5\mdrv.log" -cfg "E:\var\promo-test\promo\promo-api\Script\promo_api_5\default.cfg" -product_name vugen

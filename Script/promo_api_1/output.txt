@@ -1,0 +1,22 @@
+Virtual User Script started at : 2019-08-27 10:53:02
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for Windows 7; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "E:\var\promo-test\promo\promo-api\Script\promo_api_1\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(3): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(9): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(12): Notify: Transaction "promoRealTimeApi" started.
+Action.c(14): Notify: Transaction "promoRealTimeApi_1" started.
+Action.c(16): web_custom_request("promoRealTimeApi_1") was successful, 614 body bytes, 150 header bytes  	[MsgId: MMSG-26386]
+Action.c(26): Notify: Transaction "promoRealTimeApi_1" ended with "Pass" status (Duration: 2.1643 Wasted Time: 1.9473).
+Action.c(36): Notify: Transaction "promoRealTimeApi" ended with "Pass" status (Duration: 2.1728 Wasted Time: 1.9473).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

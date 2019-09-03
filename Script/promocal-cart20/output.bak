@@ -1,0 +1,22 @@
+Virtual User Script started at : 2019-08-27 17:21:47
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for Windows 7; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "E:\var\promo-test\promo\promo-cal\Script\promocal-cart20\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(18): param is Body={"from":"cart","productList":[{"itemId":23,"productId":24248784,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":716,"productId":24249477,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":178,"productId":24248939,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":76,"productId":24248837,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":529,"productId":24249290,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":43,"productId":24248804,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":152,"productId":24248913,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":278,"productId":24249039,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":876,"productId":24249637,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":474,"productId":24249235,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":24,"productId":24248785,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":83,"productId":24248844,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":466,"productId":24249227,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":884,"productId":24249645,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":462,"productId":24249223,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":749,"productId":24249510,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":269,"productId":24249030,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":630,"productId":24249391,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":547,"productId":24249308,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0},{"itemId":249,"productId":24249010,"mainProductId":0,"count":1,"usePoint":true,"setMealCount":0,"buy":true,"shopId":0,"shopVip":false,"productType":0,"medium":0}],"user":{"custId":319767375,"custType":1,"platform":"0"}}
+Action.c(21): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(28): Notify: Transaction "promoCalcula" started.
+Action.c(29): Notify: Transaction "promoCalculaCart20" started.
+Action.c(31): web_custom_request("promoCalculaCart20") was successful, 14825 body bytes, 128 header bytes, 21 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(40): Notify: Transaction "promoCalculaCart20" ended with "Pass" status (Duration: 2.3374 Wasted Time: 1.8498).
+Action.c(50): Notify: Transaction "promoCalcula" ended with "Pass" status (Duration: 2.3532 Wasted Time: 1.8498).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
